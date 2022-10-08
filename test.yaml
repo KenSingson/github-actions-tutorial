@@ -3,10 +3,10 @@ age: 25
 address: "cebu city: Philippines"
 active: true
 jsonObject: {
-  key: value,
+  key: value1,
   key2: value2,
   key3: {
-    key: value,
+    key: value1,
     key2: value2
   }
 }
